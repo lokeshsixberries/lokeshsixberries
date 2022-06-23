@@ -45,8 +45,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 📚 **Working on:** <br>
 
-![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
-![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
 ![ReactStrap](https://img.shields.io/badge/-ReactStrap%20-000000?style=flat&logo=ReactStrap%20&logoColor=ffffff&labelColor=0081CB)
 
 
