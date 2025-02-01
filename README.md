@@ -1,8 +1,8 @@
 
-![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshsixberries&theme=dark&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lokeshsixberries&theme=dark)](https://git.io/streak-stats)
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lokeshsixberries?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshsixberries&theme=dark&layout=donut&hide_progress=true&langs_count=14)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lokeshsixberries&theme=dark)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshsixberries&theme=dark&layout=pie&langs_count=14)](https://github.com/lokeshsixberries/Slack-Bot-With-BambooHr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshsixberries&theme=dark&layout=donut-vertical&langs_count=14)](https://github.com/anuraghazra/Slack-Bot-With-BambooHr)
 
