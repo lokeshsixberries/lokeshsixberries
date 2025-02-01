@@ -1,45 +1,82 @@
 
 ![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshsixberries&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshsixberries&theme=dark&hide_progress=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lokeshsixberries&theme=dark)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lokeshsixberries?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshsixberries&theme=dark&layout=donut&hide_progress=true&langs_count=14)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshsixberries&theme=dark&layout=pie&langs_count=14)](https://github.com/lokeshsixberries/Slack-Bot-With-BambooHr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshsixberries&theme=dark&layout=donut-vertical&langs_count=14)](https://github.com/anuraghazra/Slack-Bot-With-BambooHr)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokeshsixberries&repo=Growth)](https://github.com/lokeshsixberries/Growth)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokeshsixberries&repo=Slack-Bot-With-BambooHr)](https://github.com/lokeshsixberries/Slack-Bot-With-BambooHr)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokeshsixberries&repo=Youtube-Downloader)](https://github.com/lokeshsixberries/Youtube-Downloader)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokeshsixberries&repo=Growth)](https://github.com/lokeshsixberries/Growth)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokeshsixberries&repo=Growth)](https://github.com/lokeshsixberries/Growth)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokeshsixberries&repo=Growth)](https://github.com/lokeshsixberries/Growth)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lokeshsixberries&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![image](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
+![image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![image](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![image](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)
+![image](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![image](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)
+![image](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![image](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![image](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
+![image](https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white)
+![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=whitek)
+![image](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![image](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![image](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![image](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![image](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
+![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![image](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+![image](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![image](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![image](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![image](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
+![image](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)
+![image](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![image](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white)
+![image](https://img.shields.io/badge/NewRelic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white)
+![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![image](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
 
 
-
-# Tech Stack
-
-| Name           | Category       | Use For                                              | Site                                |
-|----------------|----------------|------------------------------------------------------|-------------------------------------|
-| **HTML**       | Front-End      | Structuring web pages                               | [html.com](https://html.com)         |
-| **CSS**        | Front-End      | Styling web pages                                   | [w3schools.com](https://www.w3schools.com/css/) |
-| **JavaScript** | Front-End      | Making web pages interactive                        | [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-| **React.js**   | Front-End      | Building user interfaces                            | [reactjs.org](https://reactjs.org)     |
-| **Vue.js**     | Front-End      | Building user interfaces                            | [vuejs.org](https://vuejs.org)        |
-| **Angular**    | Front-End      | Building single-page web applications               | [angular.io](https://angular.io)      |
-| **Node.js**    | Back-End       | Building server-side applications                    | [nodejs.org](https://nodejs.org)      |
-| **Express.js** | Back-End       | Web application framework for Node.js                | [expressjs.com](https://expressjs.com) |
-| **Django**     | Back-End       | Python web framework for rapid development           | [djangoproject.com](https://www.djangoproject.com) |
-| **Flask**      | Back-End       | Lightweight Python web framework                     | [flask.palletsprojects.com](https://flask.palletsprojects.com) |
-| **Ruby on Rails** | Back-End    | Server-side web framework written in Ruby            | [rubyonrails.org](https://rubyonrails.org) |
-| **Spring Boot** | Back-End      | Java framework for building web applications        | [spring.io](https://spring.io/projects/spring-boot) |
-| **MySQL**      | Database       | Relational database management system                | [mysql.com](https://www.mysql.com)   |
-| **PostgreSQL** | Database       | Relational database system                           | [postgresql.org](https://www.postgresql.org) |
-| **MongoDB**    | Database       | NoSQL database for scalable applications              | [mongodb.com](https://www.mongodb.com) |
-| **SQLite**     | Database       | Embedded relational database system                  | [sqlite.org](https://www.sqlite.org) |
-| **Firebase**   | Database       | NoSQL cloud database and real-time services          | [firebase.google.com](https://firebase.google.com) |
-| **Git**        | Version Control | Version control and collaboration                    | [git-scm.com](https://git-scm.com)   |
-| **GitHub**     | Version Control | Cloud-based Git hosting service                       | [github.com](https://github.com)    |
-| **GitLab**     | Version Control | Git repository management and CI/CD pipelines         | [gitlab.com](https://gitlab.com)    |
-| **AWS**        | Cloud/Deployment | Cloud services and infrastructure                    | [aws.amazon.com](https://aws.amazon.com) |
-| **Heroku**     | Cloud/Deployment | Cloud platform for deploying apps                    | [heroku.com](https://www.heroku.com)  |
-| **Docker**     | Cloud/Deployment | Containerization of applications                      | [docker.com](https://www.docker.com) |
-| **Kubernetes** | Cloud/Deployment | Orchestrating containerized applications              | [kubernetes.io](https://kubernetes.io) |
-| **Jest**       | Testing        | JavaScript testing framework                          | [jestjs.io](https://jestjs.io)      |
-| **Mocha**      | Testing        | JavaScript test framework                             | [mochajs.org](https://mochajs.org)  |
-| **Cypress**    | Testing        | End-to-end testing framework                          | [cypress.io](https://www.cypress.io) |
-| **Selenium**   | Testing        | Web browser automation and testing                    | [selenium.dev](https://www.selenium.dev) |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokeshsixberries&theme=dark&repo=Growth)](https://github.com/lokeshsixberries/Growth)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokeshsixberries&theme=dark&repo=Slack-Bot-With-BambooHr)](https://github.com/lokeshsixberries/Slack-Bot-With-BambooHr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokeshsixberries&theme=dark&repo=Youtube-Downloader)](https://github.com/lokeshsixberries/Youtube-Downloader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokeshsixberries&theme=dark&repo=PWA-Next-Appp)](https://github.com/lokeshsixberries/PWA-Next-Appp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokeshsixberries&theme=dark&repo=Google-Analysics-v4)](https://github.com/lokeshsixberries/Google-Analysics-v4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokeshsixberries&theme=dark&repo=Resume-Builder)](https://github.com/lokeshsixberries/Resume-Builder)
