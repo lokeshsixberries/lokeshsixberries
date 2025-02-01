@@ -1,3 +1,16 @@
+
+![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshsixberries&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshsixberries&theme=dark&hide_progress=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokeshsixberries&repo=Growth)](https://github.com/lokeshsixberries/Growth)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokeshsixberries&repo=Slack-Bot-With-BambooHr)](https://github.com/lokeshsixberries/Slack-Bot-With-BambooHr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokeshsixberries&repo=Youtube-Downloader)](https://github.com/lokeshsixberries/Youtube-Downloader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokeshsixberries&repo=Growth)](https://github.com/lokeshsixberries/Growth)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokeshsixberries&repo=Growth)](https://github.com/lokeshsixberries/Growth)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokeshsixberries&repo=Growth)](https://github.com/lokeshsixberries/Growth)
+
+
+
 # Tech Stack
 
 | Name           | Category       | Use For                                              | Site                                |
