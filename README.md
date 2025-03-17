@@ -1,12 +1,6 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lokeshsixberries?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshsixberries&theme=dark&layout=donut&hide_progress=true&langs_count=14)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lokeshsixberries&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshsixberries&theme=dark&layout=pie&langs_count=14)](https://github.com/lokeshsixberries/Slack-Bot-With-BambooHr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshsixberries&theme=dark&layout=donut-vertical&langs_count=14)](https://github.com/anuraghazra/Slack-Bot-With-BambooHr)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lokeshsixberries&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
